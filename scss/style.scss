@@ -8,3 +8,44 @@
 @import "site-navbar";
 /* Blocks */
 @import "site-blocks";
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700");
+@import "cssss/bootstrap.min.css";
+@import "cssss/animate.css";
+@import "cssss/default-assets/classy-nav.css";
+@import "cssss/owl.carousel.min.css";
+@import "cssss/magnific-popup.css";
+@import "cssss/font-awesome.min.css";
+@import "cssss/default-assets/themify-icons.css";
+@import "cssss/style.css";
+
+// Utilities
+
+@import "utilities/fonts";
+@import "utilities/variables";
+@import "utilities/responsive";
+@import "utilities/color";
+
+// Mixins
+
+@import "mixins/flex";
+@import "mixins/miscellaneous";
+
+// Stylesheet
+
+@import "reboot";
+@import "spacing";
+@import "preloader";
+@import "heading";
+@import "backtotop";
+@import "buttons";
+@import "header";
+@import "hero";
+@import "footer";
+@import "follow";
+@import "about";
+@import "breadcrumb";
+@import "blog";
+@import "team";
+@import "gallery";
+@import "contact";
